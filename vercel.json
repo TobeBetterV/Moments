@@ -1,0 +1,6 @@
+{
+  "buildCommand": "pnpm build",
+  "github": {
+    "silent": true
+  }
+}

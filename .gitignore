@@ -1,0 +1,22 @@
+# local env files
+.env.local
+.env.*.local
+.env.production
+
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# IDEs
+.idea/*
+
+.sass-cache/
+
+*.css.map
+*.sass.map
+*.scss.map
+
+.turbo/

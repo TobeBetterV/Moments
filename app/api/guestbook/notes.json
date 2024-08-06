@@ -1,0 +1,48 @@
+[
+  {
+    "userId": "official",
+    "userInfo": {
+      "firstName": "official",
+      "lastName": "",
+      "imageUrl": ""
+    },
+    "tags": ["置顶"],
+    "message": "本博客为单向输出，谢绝评论。--主要关注别人的评论挺耗费心力的",
+    "createdAt": "2023-04-10T03:02:29.000Z",
+    "id": "4Ra"
+  },
+  {
+    "userId": "official",
+    "userInfo": {
+      "firstName": "official",
+      "lastName": "",
+      "imageUrl": ""
+    },
+    "message": "有个问题是，读者好不容易找到一份盗版书，这个时候已经有沉没成本了，读者可能会倾向于继续寻找盗版，而不是购买正版。不过如果大家都这么干的话，会让读者找盗版的难度越来越大而转向正版。",
+    "createdAt": "2023-02-19T00:39:55.000Z",
+    "id": "4Ra"
+  },
+  {
+    "userId": "official",
+    "userInfo": {
+      "firstName": "official",
+      "lastName": "",
+      "imageUrl": ""
+    },
+    "tags": ["思考"],
+    "message": "预防盗版图书的办法，自己制作盗版图书的pdf版本，在关键的地方加入乱码字符，然后自己找到下载量比较大的盗版书平台，然后把加入乱码的版本提交上去，只需要提交几个平台就好，因为这些网站都是相互抓取，然后读者读到这里想看，只能去找正版。这样有个好处是可以方便让读者先看一部分再去判断这本书是不适合自己，也正因为此只有内容好的书才适用这个方法。",
+    "createdAt": "2023-02-19T00:39:55.000Z",
+    "id": "4Ra"
+  },
+  {
+    "userId": "official",
+    "userInfo": {
+      "firstName": "official",
+      "lastName": "",
+      "imageUrl": ""
+    },
+    "message": "人脑和硬盘的区别，想删的时候删不掉，想存的时候存不进去。",
+    "createdAt": "2023-06-27T17:40:41.000Z",
+    "id": "OR7"
+  }
+]
