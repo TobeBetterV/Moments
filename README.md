@@ -20,7 +20,7 @@
 
 **示例**
 
-- [Augusts's 自留地](https://www.augusts.me/guestbook/)。
+- [Augusts's 自留地](https://www.augusts.me/guestbook/)
 
 ### 🔒 强隐私保护
 
