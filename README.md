@@ -8,7 +8,7 @@
 
 ### 🚀 一键私有部署（零成本）
 
-按照教程可以一键部署到 Vercel 服务器，完全零成本运行。提供国内访问优化，体验可参考官方示例。
+按照[部署教程](https://www.augusts.me/blog/moments-note-blog-deploy)可以一键部署到 Vercel 服务器，完全零成本运行。提供国内访问优化，体验可参考官方示例。
 
 ### 🔄 同步至 Twitter (X)
 
@@ -47,6 +47,8 @@
 3. 保存配置，坐下来等个几分钟，喝口咖啡，等待 Vercel 完成部署。
 4. Voila！您的 Moments 已经上线。将感悟记录下来吧！
 5. 自定义域名（可选）。
+
+详细的部署步骤请参考[部署教程](https://www.augusts.me/blog/moments-note-blog-deploy)。
 
 ## 🔗 更新代码
 
