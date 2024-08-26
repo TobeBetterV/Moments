@@ -43,7 +43,7 @@ export function GuestbookFeeds() {
       void setSize((prev) => prev + 1);
     }
   }, [isLoadMoreIntersecting, isLoading, isReachingEnd, isValidating, setSize]);
-  if (!feedListDataLength && !isLoading) {
+  if (isError) {
     return (
       <div className="flex w-full flex-col items-center justify-center gap-3">
         <div className="text-label-muted text-center">加载失败</div>
